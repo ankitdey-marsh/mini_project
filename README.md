@@ -76,7 +76,7 @@ CoolMetrix/
 ## Data Sources
 
 - **Satellite Data**: The project utilizes data from Google Earth to analyze temperature, vegetation, and air quality.
-- **Chennai City Data**: Specific regions within Chennai, India, were analyzed to demonstrate the capabilities of CoolMetrix.
+- **All Major cities data**: All major prominent cities all across India, were analyzed to demonstrate the capabilities of CoolMetrix.
 
 ## Cooling Action Suggestions
 
@@ -101,7 +101,7 @@ We would like to thank **Google Earth Engine** for providing the data and tools 
 
 ## Authors
 
-- [@ankitdey-marsh](https://www.github.com/ankitdey-marsh)
-- [@Terminal127](https://www.github.com/Terminal127)
-- [@debjit-mandal](https://www.github.com/debjit-mandal)
-- [@nilotpal-basu](https://www.github.com/nilotpal-basu)
+- [@Ankit Dey](https://www.github.com/ankitdey-marsh)
+- [@Anubhav Mazumder](https://www.github.com/Terminal127)
+- [@Anubrato Basu](https://github.com/MrCelestial)
+- [@Ananya Biswas](https://github.com/ananyab1909)
