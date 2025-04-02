@@ -23,8 +23,8 @@ To run this project locally, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tensortrove/CoolMetrix.git
-   cd coolmetrix
+   git clone https://github.com/ankitdey-marsh/mini_project.git
+   cd mini_project
    ```
 
 2. Install the required dependencies:
